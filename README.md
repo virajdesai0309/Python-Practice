@@ -32,7 +32,11 @@ Right-Click on raw and save link as get your notebook on your machine as shown i
 
 ## Some golden rules before you start coding
 • Don't get dis-hearted if your code is not running in first attempt.
+
 • Code to learn and learn to code
+
 • Try to consolidate code
+
 • Always write code so others can also understand (add comments)
+
 Hope this helps to start your journey with me 😄😄
