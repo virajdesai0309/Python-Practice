@@ -30,4 +30,9 @@ Right-Click on raw and save link as get your notebook on your machine as shown i
 
 ![image](https://user-images.githubusercontent.com/87890409/173848255-4fa15ed1-5672-4fc6-95ff-d4cb1e5c427e.png)
 
+## Some golden rules before you start coding
+• Don't get dis-hearted if your code is not running in first attempt.
+• Code to learn and learn to code
+• Try to consolidate code
+• Always write code so others can also understand (add comments)
 Hope this helps to start your journey with me 😄😄
