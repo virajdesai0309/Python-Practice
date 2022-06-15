@@ -1,4 +1,4 @@
-# Pyton-Practice for my LinkedIn repository
+# LinkedIn repository for Pyhton-Practice.
 
 Before you start your jouney please install Python from the link provided below
 
