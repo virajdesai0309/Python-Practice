@@ -9,13 +9,11 @@
 
 Before you start your jouney please click on [![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat&logo=python&logoColor=yellow)](https://www.python.org/downloads/) to get it onto your local machine
 
-Also get Anaconda IDE [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flate&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual) Prompt <img alt="propmt" src="https://img.shields.io/badge/-__-000000?style=flat-square&logo=Plex&logoColor=white"> for your jupyter notebooks to make life easy🐍🐍
+Also get Anaconda IDE [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flate&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual) for your jupyter notebooks to make life easy🐍🐍
 
-https://www.anaconda.com/products/distribution
+Or you may also try the browser version of jupyter notebook just by clicking the button provided below (Limited access to features)
 
-Or you may also try the browser version of jupyter notebook from the link provided below (Limited access to features)
-
-https://jupyter.org/
+[![Jupyter](https://img.shields.io/badge/Jupyter-f97306.svg?&style=flate&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 
 • Contains here are all the modules which I upload every week.
 
@@ -34,6 +32,33 @@ Alternate way: Or you may go into individual folders like python practice or ref
 Right-Click on raw and save link as get your notebook on your machine as shown in the image below
 
 ![image](https://user-images.githubusercontent.com/87890409/173848255-4fa15ed1-5672-4fc6-95ff-d4cb1e5c427e.png)
+
+## Frequently asked questions ❔
+
+### How can I thank you for writing and sharing this tutorial? 🌷
+
+You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90 Star &message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=%E2%B5%96 Fork &message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this tutorial.
+
+Go [**`here`**](https://github.com/virajdesai0309/Python-Practice) if you aren't here already and click ➞ **`✰ Star`** and **`ⵖ Fork`** button in the top right corner. You'll be asked to create a GitHub account if you don't already have one.
+
+---
+
+## Authors ✍️
+
+Hello All! My name is Desai Viraj and I am the writter of these training modules. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
+
+See [github's contributors page](https://github.com/virajdesai0309/Python-Practice/graphs/contributors) for details.
+
+If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/virajdesai0309/Python-Practice/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
+
+If you like this tutorial, please [give it a ⭐ star](https://github.com/virajdesai0309/Python-Practice).
+
+---
+
+## Licence 📜
+
+You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
+Copyright (c) 2020 Desai Viraj
 
 ## Some golden rules before you start coding
 • Don't get dis-hearted if your code is not running in first attempt.
