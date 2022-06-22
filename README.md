@@ -7,11 +7,9 @@
 <img src="https://img.shields.io/github/repo-size/virajdesai0309/Python-Practice.svg?colorB=CC66FF&style=flat" alt="Size"/>
 <img src="https://img.shields.io/github/languages/top/virajdesai0309/Python-Practice.svg?colorB=996600&style=flat" alt="Language"/></a>
 
-Before you start your jouney please install [![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat&logo=python&logoColor=yellow)](https://www.python.org/downloads/) from the link provided below
+Before you start your jouney please click on [![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat&logo=python&logoColor=yellow)](https://www.python.org/downloads/) to get it onto your local machine
 
-https://www.python.org/downloads/
-
-Also get Anaconda IDE for your jupyter notebooks to make life easy🐍🐍
+Also get Anaconda IDE [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flate&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual) Prompt <img alt="propmt" src="https://img.shields.io/badge/-__-000000?style=flat-square&logo=Plex&logoColor=white"> for your jupyter notebooks to make life easy🐍🐍
 
 https://www.anaconda.com/products/distribution
 
