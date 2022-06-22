@@ -1,6 +1,13 @@
 # LinkedIn repository for Python-Practice.
 
-Before you start your jouney please install Python from the link provided below
+<p align="left">
+<a href="https://github.com/virajdesai0309/Python-Practice"><img src="https://img.shields.io/static/v1?logo=github&label=Originator&message=virajdesai0309&color=ff3300" alt="Last Commit"/></a>
+<a href="https://github.com/virajdesai0309/Python-Practice/stargazers"><img src="https://img.shields.io/github/stars/virajdesai0309/Python-Practice.svg?colorB=1a53ff" alt="Stars Badge"/></a>
+<a href="https://github.com/virajdesai0309/Python-Practice/network/members"><img src="https://img.shields.io/github/forks/virajdesai0309/Python-Practice" alt="Forks Badge"/> </a>
+<img src="https://img.shields.io/github/repo-size/virajdesai0309/Python-Practice.svg?colorB=CC66FF&style=flat" alt="Size"/>
+<img src="https://img.shields.io/github/languages/top/virajdesai0309/Python-Practice.svg?colorB=996600&style=flat" alt="Language"/></a>
+
+Before you start your jouney please install [![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat&logo=python&logoColor=yellow)](https://www.python.org/downloads/) from the link provided below
 
 https://www.python.org/downloads/
 
