@@ -43,7 +43,7 @@ Right-Click on raw and save link as get your notebook on your machine as shown i
 
 ## Frequently asked questions ❔
 
-### How can I thank you for writing and sharing this tutorial? :tw-1f44c:
+### How can I thank you for writing and sharing this tutorial?
 
 You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90 Star &message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=%E2%B5%96 Fork &message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
@@ -54,6 +54,14 @@ Go [**`here`**](https://github.com/virajdesai0309/Python-Practice) if you aren't
 ## Author
 
 Hello All! My name is Desai Viraj and I am the writter of these training modules. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
+
+For contributing to this open source repository 
+
+1. Create a Github account [![Github](https://img.shields.io/badge/Github-181717.svg?&style=flate&logo=Github&logoColor=white)](https://github.com/) and install git into your machine for seamless experience [![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flate&logo=Git&logoColor=white)](https://git-scm.com/)
+
+2. Generate a pull up request from the repository using the pull up request
+
+3. Clone the repository into your local machine and once done you may commit and push changes
 
 See [github's contributors page](https://github.com/virajdesai0309/Python-Practice/graphs/contributors) for details.
 
