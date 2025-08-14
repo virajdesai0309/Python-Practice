@@ -47,15 +47,15 @@ Right-Click on raw and save link as get your notebook on your machine as shown i
 | Basis Python | | ✅ Done |
 | Intermediate Python | | ⏳ In Progress |
 | Advanced Python | [Awesome Python](https://github.com/vinta/awesome-python)   | ❌ Not Started |
-| Fluids |    | ❌ Not Started |
-| Thermo |    | ❌ Not Started |
-| IDAES PSE |    | ❌ Not Started |
-| Casadi |    | ❌ Not Started |
-| Gekko |    | ❌ Not Started |
-| Biosteam |    | ❌ Not Started |
-| Chemicals |    | ❌ Not Started |
-| Pyomo |    | ❌ Not Started |
-|  |    | ❌ Not Started |
+| Fluids |  [Fluids by Caleb Bell](https://github.com/CalebBell/fluids)  | ❌ Not Started |
+| Thermo |  [Thermo by Caleb Bell](https://github.com/CalebBell/thermo)  | ❌ Not Started |
+| IDAES PSE |  [IDAES PSE](https://github.com/IDAES/idaes-pse)  | ❌ Not Started |
+| Casadi |   [Casadi](https://github.com/casadi/casadi) | ❌ Not Started |
+| Gekko |  [Gekko By APMonitor](https://github.com/BYU-PRISM/GEKKO)  | ❌ Not Started |
+| Biosteam |  [BioSteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam)  | ❌ Not Started |
+| Chemicals | [Chemicals by Caleb Bell](https://github.com/CalebBell/chemicals)   | ❌ Not Started |
+| Pyomo |  [Pyomo](https://github.com/Pyomo/pyomo)  | ❌ Not Started |
+| HT | [Heat Transfer by Caleb Bell](https://github.com/CalebBell/ht)   | ❌ Not Started |
 
 
 ---
