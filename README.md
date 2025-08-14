@@ -41,6 +41,25 @@ Right-Click on raw and save link as get your notebook on your machine as shown i
 
 ![image](https://user-images.githubusercontent.com/87890409/173848255-4fa15ed1-5672-4fc6-95ff-d4cb1e5c427e.png)
 
+---
+| Module Name | Reference | Status |
+|-------------|-----------|--------|
+| Basis Python | | ✅ Done |
+| Intermediate Python | | ⏳ In Progress |
+| Advanced Python | [Awesome Python](https://github.com/vinta/awesome-python)   | ❌ Not Started |
+| Fluids |    | ❌ Not Started |
+| Thermo |    | ❌ Not Started |
+| IDAES PSE |    | ❌ Not Started |
+| Casadi |    | ❌ Not Started |
+| Gekko |    | ❌ Not Started |
+| Biosteam |    | ❌ Not Started |
+| Chemicals |    | ❌ Not Started |
+| Pyomo |    | ❌ Not Started |
+|  |    | ❌ Not Started |
+
+
+---
+
 ## Frequently asked questions ❔
 
 ### How can I thank you for writing and sharing this tutorial?
@@ -53,7 +72,7 @@ Go [**`here`**](https://github.com/virajdesai0309/Python-Practice) if you aren't
 
 ## Author
 
-Hello All! My name is Desai Viraj and I am the writter of these training modules. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
+Hello All! My name is Desai Viraj and I am the writer of these training modules. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
 
 For contributing to this open source repository 
 
