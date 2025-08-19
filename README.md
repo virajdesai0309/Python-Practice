@@ -45,8 +45,7 @@ Right-Click on raw and save link as get your notebook on your machine as shown i
 | Module Name | Reference | Status |
 |-------------|-----------|--------|
 | Basis Python | | ✅ Done |
-| Intermediate Python | | ⏳ In Progress |
-| Advanced Python | [Awesome Python](https://github.com/vinta/awesome-python)   | ❌ Not Started |
+| Intermediate Python | | ✅ Done |
 | Fluids |  [Fluids by Caleb Bell](https://github.com/CalebBell/fluids)  | ❌ Not Started |
 | Thermo |  [Thermo by Caleb Bell](https://github.com/CalebBell/thermo)  | ❌ Not Started |
 | IDAES PSE |  [IDAES PSE](https://github.com/IDAES/idaes-pse)  | ❌ Not Started |
