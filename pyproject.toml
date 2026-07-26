@@ -1,0 +1,15 @@
+[project]
+name = "python-practice"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.1",
+    "pandas>=3.0.5",
+    "polars>=1.43.0",
+    "scikit-learn>=1.9.0",
+    "seaborn>=0.13.2",
+]
